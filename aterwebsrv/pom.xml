@@ -33,7 +33,7 @@
 		<neo4j-cypher-compiler-2.1.version>2.1.5</neo4j-cypher-compiler-2.1.version>
 		<neo4j-cypher-compiler-2.2.version>2.2.5</neo4j-cypher-compiler-2.2.version>
 		<org-apache-batik-all.version>1.7-201003011305</org-apache-batik-all.version>
-		<poi.version>3.14</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<scala-library.version>2.12.0-M2</scala-library.version>
 	</properties>
 
